@@ -1,5 +1,5 @@
 # Sensor de Temperatura e Luminosidade
-Basicamente um projeto que mede a temperatura ambiente,em graus Celsius, e a luminosidade em Lumens, mostrando estes valores em um display lcd, com funções de ajuste de brilho e contraste através de dois potenciômetros. O principal objetivo do projeto é criar um medidor de temperatura e luminosidade utilizando apenas alguns componentes e um arduino.
+Basicamente um projeto que mede a temperatura ambiente,em graus Celsius, e a luminosidade em Lúmens, mostrando estes valores em um display lcd, com funções de ajuste de brilho e contraste através de dois potenciômetros. O principal objetivo do projeto é criar um medidor de temperatura e luminosidade utilizando apenas alguns componentes e um arduino.
 
 
 # Lista de materiais
