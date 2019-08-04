@@ -4,12 +4,19 @@ Basicamente um projeto que mede a temperatura ambiente,em graus Celsius, e a lum
 
 # Lista de materiais
 (1x) arduino;
+
 (1x) protoboard;
+
 (1x) display LDC do tipo JHD 162A de 16 colunas por duas linhas;
+
 (1x) sensor LDR (do inglês Light Dependent Resistor);
+
 (1x) sensor de temperatura LM35;
+
 (2x) potenciômetros de 10K omhs;
+
 (1x) resistor de 10k ohms;
+
 fios jumper.
 
 
